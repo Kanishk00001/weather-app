@@ -30,7 +30,7 @@ A simple and responsive Weather App that fetches real-time weather data using th
 ## API Key Configuration
 This project uses the OpenWeather API. Replace the existing `apiKey` in `index.html` with your own API key if needed:
 ```js
-const apiKey = "YOUR_API_KEY";
+const apiKey = "76a49bc206f4ed9efb1e862a72d9f9d1";
 ```
 
 
@@ -42,5 +42,5 @@ const apiKey = "YOUR_API_KEY";
 
 ## Author
 - Kanishk Agrawal
-- GitHub: [Your GitHub Profile](https://github.com/Kanishk00001)
+- GitHub: [Kanishk00001](https://github.com/Kanishk00001)
 
